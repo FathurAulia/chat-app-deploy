@@ -2,8 +2,8 @@
 This chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
 
-![login page](./images/login.png)
-
+![login page](./images/Login.png)
+![login page](./images/Regiater.png)
 ![home page](./images/dashboard.png)
 
 ## Installation Guide
