@@ -3,7 +3,9 @@ This chat application build with the power of MERN Stack. You can find the tutor
 
 
 ![login page](./images/Login.png)
+
 ![register page](./images/Register.png)
+
 ![home page](./images/dashboard.png)
 
 ## Installation Guide
